@@ -3,5 +3,5 @@ build/
 gradle/
 .gradle/
 .github/
-app/build
+app/build/
 settings.gradle

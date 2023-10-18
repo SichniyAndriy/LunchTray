@@ -39,8 +39,8 @@ class StartOrderFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View? {
+        savedInstanceState: Bundle?,
+    ): View {
         _binding = FragmentStartOrderBinding.inflate(inflater, container, false)
         val root: View = binding.root
         // Navigate to entree menu
