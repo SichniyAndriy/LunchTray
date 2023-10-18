@@ -1,6 +1,7 @@
-.idea\
-build\
-gradle\
-.gradle\
-.github\
+.idea/
+build/
+gradle/
+.gradle/
+.github/
+app/build
 settings.gradle
